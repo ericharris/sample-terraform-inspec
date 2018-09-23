@@ -1,0 +1,27 @@
+{
+    "ec2_dns": {
+        "sensitive": false,
+        "type": "string",
+        "value": "ec2-18-234-196-122.compute-1.amazonaws.com"
+    },
+    "ec2_id": {
+        "sensitive": false,
+        "type": "string",
+        "value": "i-0166acc6957513db9"
+    },
+    "ec2_ip": {
+        "sensitive": false,
+        "type": "string",
+        "value": "18.234.196.122"
+    },
+    "ec2_url": {
+        "sensitive": false,
+        "type": "string",
+        "value": "http://ec2-18-234-196-122.compute-1.amazonaws.com"
+    },
+    "sg_id": {
+        "sensitive": false,
+        "type": "string",
+        "value": "sg-07b050c36a894443d"
+    }
+}

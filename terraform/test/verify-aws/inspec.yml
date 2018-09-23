@@ -1,0 +1,8 @@
+name: verify
+title: Webapp Webserver Verify Profile
+maintainer: Eric Harris
+copyright: Eric Harris
+copyright_email: eric@itfargo.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile
+version: 0.1.0
